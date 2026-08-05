@@ -12,3 +12,6 @@
 
 ## Administrativo
 - [ ] Visualizar relatórios
+
+## Tarefas concluídas
+- [x] Setup inicial do projeto com React e Vite
