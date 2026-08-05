@@ -6,6 +6,13 @@
   --color-border: rgba(255, 255, 255, 0.1);
   --color-text-primary: #ffffff;
   --color-text-secondary: #aaaaaa;
+  
+  --cat-tecnologia: #007bff;
+  --cat-gestao: #fd7e14;
+  --cat-saude: #28a745;
+  --cat-criatividade: #6f42c1;
+  --cat-educacao: #e83e8c;
+  --cat-padrao: #6c757d;
 
   --font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -188,3 +195,112 @@ body {
   padding: 20px;
   width: 100%;
 }
+
+/* Tabs */
+.tabs-container {
+  display: flex;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 6px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.tab-btn {
+  flex: 1;
+  background: transparent;
+  color: var(--color-text-secondary);
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tab-btn.active {
+  background: linear-gradient(135deg, var(--color-senac-orange), #ff983f);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(245, 130, 31, 0.3);
+}
+
+/* Timeline Cards */
+.timeline-card {
+  display: flex;
+  background: var(--color-surface);
+  border-radius: 12px;
+  margin-bottom: 16px;
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  transition: transform 0.2s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-card.visited {
+  border-color: rgba(40, 167, 69, 0.5); /* Verde do Senac Saúde / Sucesso */
+  box-shadow: 0 0 10px rgba(40, 167, 69, 0.2);
+  background: rgba(40, 167, 69, 0.05);
+}
+
+.timeline-card:active {
+  transform: scale(0.98);
+}
+
+.timeline-indicator {
+  width: 6px;
+  flex-shrink: 0;
+}
+
+.timeline-content {
+  padding: 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.timeline-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+
+.timeline-time {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--color-senac-orange);
+  background: rgba(245, 130, 31, 0.1);
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.timeline-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.timeline-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+}
+
+.timeline-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.category-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 3px 8px;
+  border-radius: 12px;
+  color: #fff;
+  font-weight: 600;
+}
+

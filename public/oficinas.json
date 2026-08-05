@@ -1,0 +1,444 @@
+[
+    {
+        "titulo": "Feira de troca de livros",
+        "descricao": "Deixe um livro de literatura ou história em quadrinho (HQ) que você já leu aqui e saia com um novo.IMPORTANTE: para que a troca tenha valor para todo mundo, vamos respeitar as regras:• a troca será de livro por livro e HQ por HQ;• os materiais devem estar em bom estado de conservação;• livros de literatura estrangeira, nacional, infantil, infanto-juvenil e HQs são bem-vindos;• não são aceitos materiais didáticos, acadêmicos, livros de cunho político partidário, religioso, pornográficos, dicionários nem listas de endereços e telefones.",
+        "local": "Biblioteca",
+        "categoria": "Atividade da Biblioteca.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Exposição \"Os Bastidores da Transformação\"",
+        "descricao": "Conheça trajetórias inspiradoras de docentes que transformam conhecimento em impacto social, cultural e artístico por meio de livros, documentários, pesquisas e projetos realizados além da sala de aula.",
+        "local": "Biblioteca",
+        "categoria": "Atividade da Biblioteca e Design de Interiores.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Exposição \"Biblioteca em Transformação\"",
+        "descricao": "Uma mostra audiovisual que apresenta projetos, eventos, ações culturais e iniciativas realizadas pela Biblioteca entre 2022 e 2026.Para além das ações de incentivo à leitura e à cultura, promovemos iniciativas educativas voltadas a diversidade, inclusão e equidade que fortalecem o respeito às diferenças e a valorização de grupos historicamente minorizados.",
+        "local": "Biblioteca",
+        "categoria": "Atividade da Biblioteca.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Amarelinha das ODS: Cada Salto, um Beijinho!",
+        "descricao": "Amarelinha das ODS: Cada Salto, um Beijinho! Desafie seu equilíbrio, teste seus conhecimentos e descubra como pequenas ações podem transformar o mundo. Pule, compartilhe uma atitude sustentável ligada à ODS sorteada e, no final, ganhe um delicioso beijinho!",
+        "local": "Corredor próximo à sala 102",
+        "categoria": "Atividade do grupo Ecos.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Oficina de Carimbos Adinkra",
+        "descricao": "Conheça a simbologia Adinkra, um sistema visual de símbolos originários da cultura africana e produza estampas que representam conhecimento, aprendizado, sabedoria e transformação.",
+        "local": "Biblioteca",
+        "categoria": "Atividade da Biblioteca e Design de Interiores.",
+        "horarios": [
+            "10h às 11h30",
+            "15h às 16h30"
+        ],
+        "observacao": "vagas limitadas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Macramê: Transformando Fios em Possibilidades",
+        "descricao": "Aprenda técnicas básicas de macramê e produza uma peça artesanal para levar para casa, refletindo sobre criatividade, autonomia e transformação por meio do fazer manual.",
+        "local": "Biblioteca",
+        "categoria": "Atividade da Biblioteca e Design de Interiores.",
+        "horarios": [
+            "14h às 15h",
+            "16h30 às 17h30"
+        ],
+        "observacao": "vagas limitadas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Na Linha de Frente: O Técnico de Enfermagem em Ação",
+        "descricao": "Proatividade e busca por soluções transformadoras são atitudes empreendedoras que permeiam a formação do Técnico em Enfermagem no Senac.Nessa atividade você irá vivenciar o trabalho do Técnico em Enfermagem em situações do dia a dia e como nossos estudantes são estimulados a pensar e agir.",
+        "local": "Sala 01",
+        "categoria": "Atividade do Curso Técnico em Enfermagem.",
+        "horarios": [
+            "9h00 às 10h00",
+            "10h30 às 11h00",
+            "14h00 às 15h00",
+            "15h30 às 16h00",
+            "19h30 às 20h30"
+        ],
+        "observacao": ""
+    },
+    {
+        "titulo": "Jogo: Bibliocaos",
+        "descricao": "Bibliocaos é um jogo caótico onde você gerencia uma biblioteca sob pressão. Atenda visitantes, organize livros e enfrente minigames rápidos antes que o tempo acabe. É um jogo digital desenvolvido como projeto integrador do curso Técnico em Programação de Jogos Digitais no Senac São Carlos, e o design é baseado totalmente na biblioteca real da escola!",
+        "local": "Biblioteca",
+        "categoria": "Atividade do Curso Técnico em Programação de Jogos Digitais.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Missão Técnico em Enfermagem: Explore 7 Desafios Reais!",
+        "descricao": "O Domínio Técnico-Científico é essencial para o exercício profissional competente.Conheça cenários que que exploram os desafios da prática profissional do Técnico em Enfermagem.",
+        "local": "Sala 01",
+        "categoria": "Atividade do Curso Técnico em Enfermagem.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Memória Bordada",
+        "descricao": "Transforme lembranças em bordados inspirados na natureza. Com desenhos simples, como folhas, flores e paisagens, os participantes criarão uma peça única para expressar histórias e sentimentos.",
+        "local": "Sala 101",
+        "categoria": "Atividade da Moda.",
+        "horarios": [],
+        "observacao": "Vagas: 12 participantes."
+    },
+    {
+        "titulo": "Dobras que Guardam Histórias",
+        "descricao": "Crie uma carteira exclusiva, unindo costura, criatividade e personalização. Durante a oficina, os participantes aprenderão técnicas básicas de corte, dobra e costura na máquina para confeccionar sua própria peça. Em seguida, a carteira será personalizada com carimbos ou pinturas artesanais, inspiradas na natureza, memórias ou formas geométricas. Ao final, cada participante levará para casa uma carteira única, produzida pelas próprias mãos.",
+        "local": "Sala 101",
+        "categoria": "Atividade da Moda.",
+        "horarios": [
+            "15h",
+            "16h30"
+        ],
+        "observacao": "Vagas: 12 participantes."
+    },
+    {
+        "titulo": "Não pode jogar remédios no lixo?",
+        "descricao": "Atitude Sustentável é uma das marcas formativas do Senac e neste jogo on line você vai se divertir e aprender que o descarte correto de medicamentos é uma ação que respeita o meio ambiente e a nossa sociedade.",
+        "local": "Sala 04",
+        "categoria": "Atividade do Curso Técnico em Farmácia.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "E onde eu jogo então?",
+        "descricao": "Chamamos de “Visão Crítica”, a capacidade de compreender, problematizar e tomar decisões éticas. Assim, depois de aprender sobre a forma correta de descartar medicamentos, é hora de saber onde podemos fazer isso em São Carlos de forma segura e gratuita.",
+        "local": "Sala 04",
+        "categoria": "Atividade do Curso Técnico em Farmácia.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Por Dentro da Farmácia: Vem Ver Como Funciona!",
+        "descricao": "Articular conhecimentos teóricos e as habilidades práticas é uma marca formativa do Senac, que chamamos de “Domínio Técnico-Científico”.Neste espaço você vai conhecer como as aulas práticas do Curso Técnico em Farmácia são organizadas.",
+        "local": "Sala 04",
+        "categoria": "Atividade do Curso Técnico em Farmácia.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Internet sem Mistérios: O Caminho dos Dados com Cisco",
+        "descricao": "Você sabe como uma mensagem chega ao destino pela internet?Nesta oficina, descubra o caminho dos dados em uma rede, conheça equipamentos e conceitos básicos de infraestrutura com apoio da tecnologia Cisco.",
+        "local": "Lab 202",
+        "categoria": "Atividade de Redes e Infraestrutura.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Que aplicativo é esse!?",
+        "descricao": "Como nasce um aplicativo?Nesta oficina, conheça etapas do desenvolvimento, da ideia à solução digital, explorando lógica, funcionalidades e experiência do usuário de forma prática e interativa.",
+        "local": "Lab 202",
+        "categoria": "Atividade de Games e Desenvolvimento.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Computação Gráfica e IA: da modelagem à materialização",
+        "descricao": "Explore como ideias ganham forma com computação gráfica e inteligência artificial.Nesta oficina, acompanhe processos de modelagem, criação visual e possibilidades de materialização digital.",
+        "local": "Lab 204",
+        "categoria": "Atividade da Computação Gráfica.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Quanto custa sua vida?",
+        "descricao": "Exposição interativa que demonstra as consequências de acidentes causados pela não utilização de Equipamentos de Proteção Individual (EPIs).Utiliza peças anatômicas e orientações de segurança para conscientizar sobre a prevenção de acidentes e a preservação da vida no trabalho.",
+        "local": "Sala 03",
+        "categoria": "Atividade de Saúde e Segurança do Trabalho.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Caça aos Riscos",
+        "descricao": "Atividade prática e interativa, com vivências voltadas à identificação de riscos em trabalho em altura e espaços confinados.Em ambiente simulado, os participantes desenvolvem a percepção de riscos e a cultura de prevenção.",
+        "local": "Container",
+        "categoria": "Atividade de Saúde e Segurança do Trabalho e Bombeiro Civil.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Memórias que inspiram",
+        "descricao": "Exposição digital contínua com fotografias de ex-alunos, destacando suas trajetórias acadêmicas e profissionais.A iniciativa valoriza histórias de sucesso, fortalece o sentimento de pertencimento e inspira novos estudantes em sua jornada de formação.",
+        "local": "Sala 03",
+        "categoria": "Atividade de Saúde e Segurança do Trabalho.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Horta Caseira Sustentável",
+        "descricao": "Oficina prática de cultivo de hortaliças em pequenos espaços, abordando preparo do solo, plantio e cuidados de manutenção.Realizada em quatro turmas ao longo do dia, proporciona aprendizado acessível e incentiva hábitos sustentáveis e alimentação saudável.",
+        "local": "Na horta da unidade",
+        "categoria": "Atividade de Saúde e Segurança do Trabalho.",
+        "horarios": [
+            "09h30 às 10h00",
+            "11h00 às 11h30",
+            "14h00 às 14h30",
+            "15h00 às 15h30"
+        ],
+        "observacao": "vagas limitadas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Escape Room: Territórios em Cena",
+        "descricao": "Por meio de enigmas, pistas e da interação com personagens interpretados ao longo da atividade, os visitantes serão conduzidos por uma jornada que conecta memória, cultura, comunicação e pertencimento.",
+        "local": "Auditório",
+        "categoria": "Atividade dos cursos Técnico em Teatro e Técnico em Publicidade.",
+        "horarios": [
+            "14h às 15h",
+            "16h às 17h",
+            "19h às 20h"
+        ],
+        "observacao": ""
+    },
+    {
+        "titulo": "O Labirinto Imersivo",
+        "descricao": "Que tal encarar o Labirinto Imersivo?Será que só o esforço te leva ao topo ou o ponto de partida muda o jogo?Questione o mérito e os privilégios nessa experiência interativa no CASA ABERTA 2026 do SENAC São Carlos.Entre no jogo e provoque sua forma de ver o mundo!",
+        "local": "",
+        "categoria": "Atividade de Desenvolvimento Social.",
+        "horarios": [
+            "9h às 12h",
+            "13h30 às 17h30",
+            "19h às 20h30"
+        ],
+        "observacao": ""
+    },
+    {
+        "titulo": "Mapeando Barreiras, Construindo Pontes",
+        "descricao": "Explore uma representação da cidade de São Carlos e reflita sobre acessibilidade, comunicação inclusiva e participação social.A atividade convida o público a identificar barreiras e possibilidades nos espaços urbanos.",
+        "local": "Sala 205",
+        "categoria": "Atividade do Trampolim e de Idiomas.",
+        "horarios": [
+            "9h às 12h",
+            "13h30 às 17h30",
+            "19h às 20h30"
+        ],
+        "observacao": ""
+    },
+    {
+        "titulo": "Olhar fotográfico, o enquadramento e a composição",
+        "descricao": "A proposta busca desenvolver a capacidade de observar, interpretar e atribuir sentido ao território.Um olhar mais atento ao território, às formas, aos fluxos e às relações presentes no espaço, entendendo que a forma que vemos está diretamente ligada ao modo como esses espaços são usados e vividos, a câmera ensina a ver o mundo com mais detalhes",
+        "local": "Sala 02",
+        "categoria": "Atividade de Comunicação Social.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "CRIA! Uma Exposição de Ideias",
+        "descricao": "Exposição dos trabalhos inscritos no CRIA!Desafio criativo anual que visa inspirar alunos a explorar suas habilidades nas áreas de design, arte e tecnologia.",
+        "local": "ao lado da rampa de entrada",
+        "categoria": "Atividade de Comunicação Social.",
+        "horarios": [],
+        "observacao": "Exposição dos trabalhos inscritos no CRIA!Desafio criativo anual que visa inspirar alunos a explorar suas habilidades nas áreas de design, arte e tecnologia."
+    },
+    {
+        "titulo": "Rádio Senac",
+        "descricao": "A Rádio Senac oferecerá uma programação ao vivo e interativa, com foco e participação do público. Entretenimento, Games e Entrevistas, além de uma peça de Rádio Teatro",
+        "local": "Sala 13, com transmissão simultânea na Biblioteca",
+        "categoria": "Atividade de Comunicação Social.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "O Rádio e o Teatro",
+        "descricao": "O radioteatro nasceu na década de 1920 com a chegada do rádio no Brasil.Agora, a turma de teatro e rádio traz essa arte para a atualidade, encenando uma peça direto do estúdio.Venha ver os bastidores e como a sonoplastia moderna dá vida à história, mostrando como se faz o teatro nos tempos atuais.",
+        "local": "Sala 13",
+        "categoria": "Atividade de Comunicação Social.",
+        "horarios": [
+            "Sessão 01: 19h às 19h15",
+            "Sessão 02: 19h45 às 20h"
+        ],
+        "observacao": ""
+    },
+    {
+        "titulo": "Você Escolhe o Que Vê?",
+        "descricao": "A exposição “Você Escolhe o Que Vê?” convida o público a refletir sobre como as mídias digitais influenciam nossa percepção da cidade.Em uma experiência imersiva, a mostra provoca um olhar crítico sobre atenção, informação e o papel dos comunicadores na construção de narrativas que transformam São Carlos.",
+        "local": "Tubulação em frente à Secretaria até o Setor Administrativo",
+        "categoria": "Atividade de Comunicação Social.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Jogo dos Sistemas Construtivos Brasileiros",
+        "descricao": "Aprenda sistemas construtivos brasileiros de forma dinâmica!Em uma oficina gamificada, os participantes descrevem técnicas como Taipa de Pilão e Alvenaria Estrutural, avaliam respostas e acumulam pontos.Ao final, quem mais pontuar conquista o título de mestre/mestra de obras.",
+        "local": "Sala 14",
+        "categoria": "Atividade do Design de Interiores.",
+        "horarios": [],
+        "observacao": "vagas limitadas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Entre Aromas e Toques: Um Caminho para o Autocuidado",
+        "descricao": "Participe de uma vivência interativa de autocuidado que une teoria e prática, com automassagem, aromaterapia e ambiente acolhedor.Experimente técnicas simples para aliviar tensões, promover bem-estar e cuidar do corpo e da mente no dia a dia.",
+        "local": "Lab 8",
+        "categoria": "Atividade de Massoterapia e Práticas Integrativas.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Cuidar dos Pés é Cuidar do Caminho",
+        "descricao": "Cuide da base que sustenta sua vida!Participe de uma experiência de bem-estar com avaliação podológica básica, orientações personalizadas de autocuidado e um relaxante escalda-pés com hidratação.Mais saúde, conforto e qualidade de vida para seus pés!",
+        "local": "Lab 7",
+        "categoria": "Atividade de Podologia.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Delineado pra Todos",
+        "descricao": "Oficina de delineado onde os participantes poderão criar seu próprio Delineado de acordo com seu gosto e muito estilo, realçando sua beleza e dando um toque especial à sua make.",
+        "local": "Sala 12",
+        "categoria": "Atividade da Beleza.",
+        "horarios": [
+            "14h às 15h 15h30 às 16h30"
+        ],
+        "observacao": "10 vagas por turma| inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Penteados Criativos para Festas e Eventos",
+        "descricao": "Aprenda penteados simples, rápidos e criativos para diferentes ocasiões. Nesta oficina prática, você conhecerá técnicas fáceis para criar looks para festas, eventos especiais ou para deixar o dia a dia mais estiloso, desenvolvendo criatividade, autoestima e autonomia.",
+        "local": "Sala 12",
+        "categoria": "Atividade da Beleza.",
+        "horarios": [
+            "9h às 10h",
+            "10h30 às 11h30"
+        ],
+        "observacao": "10 vagas por turma| inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Mãos que tranformam: Cuidado, Saúde a Autoestima",
+        "descricao": "Participe de uma experiência de autocuidado e descompressão por meio de técnicas simples de esfoliação, hidratação e massagem das mãos.A oficina promove momentos de relaxamento, bem-estar e valorização pessoal, demonstrando como pequenas práticas de cuidado podem contribuir para a saúde, a autoestima e a qualidade de vida.",
+        "local": "Sala 11",
+        "categoria": "Atividade da Beleza.",
+        "horarios": [
+            "16h às 17h",
+            "19h às 20h"
+        ],
+        "observacao": "10 vagas por turma | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Do desperdício à solução: Gastronomia que transforma o território",
+        "descricao": "Em uma experiência prática e saborosa, aprenda soluções criativas para reduzir desperdícios, aproveitar alimentos integralmente e produzir refeições nutritivas, acessíveis e sustentáveis.",
+        "local": "Lab 15",
+        "categoria": "Atividade de Gastronomia.",
+        "horarios": [
+            "9h10",
+            "10h00",
+            "10h40"
+        ],
+        "observacao": "vagas limitadas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Da Base à Obra-Prima: A Arte de Transformar na Confeitaria",
+        "descricao": "Conheça alguns segredos da confeitaria em uma experiência prática e inspiradora!Técnicas, apresentações e o cuidado por trás de sobremesas encantadoras, que transformam conhecimento em possibilidades.",
+        "local": "Lab 15",
+        "categoria": "Atividade de Gastronomia.",
+        "horarios": [
+            "14h",
+            "15h",
+            "16h"
+        ],
+        "observacao": "vagas limitadas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Da Massa ao Futuro: Transformando Sabores em Oportunidades",
+        "descricao": "Vivencie de forma prática e dinâmica, como um hobby pode se tornar fonte de renda e negócio.Uma experiência interativa em panificação onde você monta sua própria esfirra enquanto descobre como transformar criatividade em oportunidade.",
+        "local": "Lab 15",
+        "categoria": "Atividade de Gastronomia.",
+        "horarios": [
+            "19h",
+            "20h"
+        ],
+        "observacao": "vagas limitadas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "Jogo: Quem faz a moda acontecer",
+        "descricao": "Atividade lúdica e interativa do processo da moda para além da criação de roupas: planejamento, produção, comunicação, tecnologia, sustentabilidade, empreendedorismo e gestão.A atividade também busca ampliar a percepção dos visitantes sobre possibilidades de formação e inserção profissional, aproximando a comunidade do universo da educação profissional e tecnológica.",
+        "local": "Sala 101",
+        "categoria": "Atividade da Moda.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "A árvore que floresce em Moda",
+        "descricao": "Atividade colaborativa que convida os participantes a se expressarem, de forma simples e simbólica através da construção de uma árvore, que vai florescendo em cores e texturas, representando a diversidade de carreiras que fazem a moda acontecer.",
+        "local": "Hall em frente a Sala 101",
+        "categoria": "Atividade da Moda.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Nutrição na prática: conhecimento que alimenta, escolhas que transformam",
+        "descricao": "Experimente, descubra e aprenda!Em uma jornada cheia de interação, você conhecerá práticas e escolhas que tornam a alimentação mais saudável, equilibrada e prazerosa, levando inspiração para o seu dia a dia.",
+        "local": "Hall inferior externo (jardim)",
+        "categoria": "Atividade de Nutrição.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Operação Casa Sob Controle",
+        "descricao": "Participe de uma experiência interativa e resolva desafios de finanças, recursos humanos, logística, compras e marketing, dentro do tempo estabelecido.",
+        "local": "Sala 209",
+        "categoria": "Atividade de Gestão e Negócios.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Ensino Médio: Trajetórias de Transformação",
+        "descricao": "Como ideias se transformam em ações?Conheça iniciativas desenvolvidas pelos estudantes do Ensino Médio Senac e participe de uma experiência colaborativa que convida o público a refletir sobre os impactos, desafios e possibilidades de transformação presentes na sociedade.",
+        "local": "Sala 201",
+        "categoria": "Atividade do Ensino Médio Técnico.",
+        "horarios": [],
+        "observacao": "turmas a cada 30 minutos | vagas limitadas | por ordem de chegada"
+    },
+    {
+        "titulo": "Ação literária: O trabalho invisível de cuidar e transformar",
+        "descricao": "Ação literária de divulgação do livro “Do lar: a invisibilidade do trabalho de cuidado desenvolvido por mulheres no ambiente doméstico”.",
+        "local": "biblioteca",
+        "categoria": "Atividade do Ensino Médio Técnico.",
+        "horarios": [],
+        "observacao": "vagas limitadas | inscrições com antecedência no local"
+    },
+    {
+        "titulo": "Fotografia e Território: aprender a ver e transformar",
+        "descricao": "Oficina que propõe observar o território do Senac e seu entorno por meio da fotografia.Em grupo, participantes produzem e analisam imagens, explorando luz e espaço, valorizando a história local e o legado feminino, em uma experiência que estimula o olhar crítico e a relação com o entorno.",
+        "local": "Lab 210",
+        "categoria": "Atividade do Ensino Médio Técnico.",
+        "horarios": [],
+        "observacao": "vagas limitadas | por ordem de chegada"
+    },
+    {
+        "titulo": "Confecção de pindas: do aprendizado à prática",
+        "descricao": "Transformando conhecimentos em soluções de bem‑estar e qualidade de vida para o dia a dia.",
+        "local": "Lab 8",
+        "categoria": "Atividade do Bem-Estar.",
+        "horarios": [
+            "09h30",
+            "14h30",
+            "19h30"
+        ],
+        "observacao": "vagas limitas | inscrições por ordem de chegada"
+    },
+    {
+        "titulo": "O poder das argilas: conhecimento que transforma o autocuidado em saúde e bem-estar",
+        "descricao": "Descubra o poder das argilas em uma vivência prática e educativa!Aprenda sobre tipos, benefícios e aplicações no cuidado com a pele e o bem-estar.Uma experiência acessível para incorporar o autocuidado natural no seu dia a dia com segurança e eficácia.",
+        "local": "Lab 8",
+        "categoria": "Atividade do Bem-Estar.",
+        "horarios": [],
+        "observacao": ""
+    },
+    {
+        "titulo": "Links Relacionados",
+        "descricao": "",
+        "local": "",
+        "categoria": "",
+        "horarios": [],
+        "observacao": ""
+    }
+]
